@@ -17,9 +17,14 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
+![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/152069249/c41791cf-ffc5-4dfa-a1e4-4aa6d0d041df)
 ## OUPUT - ARP
+![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/152069249/a3a79fa9-bbd5-47fa-b1be-c113eae790c1)
 ## PROGRAM - RARP
+![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/152069249/85abe573-7206-4358-a4c8-8ad7048af8f5)
 ## OUPUT -RARP
+![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/152069249/035f627c-71c3-4832-b229-8491eba55393)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
